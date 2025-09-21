@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="title_activity_avatar">AvatarActivity</string>
+    <string name="title_activity_contador">ContadorActivity</string>
+    <string name="title_activity_tareas">TareasActivity</string>
+    <string name="title_activity_formulario">FormularioActivity</string>
+    <string name="title_activity_inicio">InicioActivity</string>
+    <string name="title_activity_estados">EstadosActivity</string>
+</resources>
