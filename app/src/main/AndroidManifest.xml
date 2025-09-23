@@ -12,10 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.HolaMundo">
         <activity
+            android:name=".Avatar2Activity"
+            android:exported="false"
+            android:label="@string/title_activity_avatar2"
+            android:theme="@style/Theme.HolaMundo" />
+        <activity
             android:name=".EstadosActivity"
             android:exported="true"
             android:label="@string/title_activity_estados"
-            android:theme="@style/Theme.HolaMundo" >
+            android:theme="@style/Theme.HolaMundo">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,14 +31,12 @@
             android:name=".InicioActivity"
             android:exported="true"
             android:label="@string/title_activity_inicio"
-            android:theme="@style/Theme.HolaMundo">
-
-        </activity>
+            android:theme="@style/Theme.HolaMundo"></activity>
         <activity
             android:name=".FormularioActivity"
             android:exported="true"
             android:label="@string/title_activity_formulario"
-            android:theme="@style/Theme.HolaMundo"></activity>
+            android:theme="@style/Theme.HolaMundo" />
         <activity
             android:name=".TareasActivity"
             android:exported="true"
