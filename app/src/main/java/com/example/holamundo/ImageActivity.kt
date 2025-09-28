@@ -41,7 +41,7 @@ class ImageActivity : ComponentActivity() {
 @OptIn(ExperimentalGlideComposeApi::class)
 @Composable
 fun ImagenConPlaceholder(modifier: Modifier = Modifier) {
-
+    //GlideImage es una librería para bajar imágenes de internet
     GlideImage(
         model = "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png",
         contentDescription = "Superman",
