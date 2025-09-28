@@ -7,4 +7,8 @@
     <string name="title_activity_inicio">InicioActivity</string>
     <string name="title_activity_estados">EstadosActivity</string>
     <string name="title_activity_avatar2">Avatar2Activity</string>
+    <string name="title_activity_contenedores">ContenedoresActivity</string>
+    <string name="title_activity_lazy_column">LazyColumnActivity</string>
+    <string name="title_activity_control_scroll">ControlScrollActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
 </resources>
